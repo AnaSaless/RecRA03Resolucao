@@ -10,7 +10,7 @@ O experimento comparou três funções de hashing (Divisão, Multiplicação e D
 **Distribuições mais uniformes reduzem o custo médio no encadeamento separado.**
 
 ## Vídeo de Apresentação
-**https://youtu.be/vJnN9HJjqGg**
+**https://youtu.be/mPoYMZFaRLw**
 
 ## Integrantes:
 - Ana Carolina Afonso Meiado - GitHub: [@nacalorias](https://github.com/nacalorias)  
