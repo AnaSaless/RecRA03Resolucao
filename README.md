@@ -15,3 +15,6 @@ O experimento comparou três funções de hashing (Divisão, Multiplicação e D
 ## Integrantes:
 - Ana Carolina Afonso Meiado - GitHub: [@nacalorias](https://github.com/nacalorias)  
 - Ana Carolina Curi de Sales - GitHub: [@AnaSaless](https://github.com/AnaSaless)
+
+## Nota:
+Sobre a frase sentinela a gente não sabia muito bem onde colocar, acabamos deixando no readme. Caso não seja o lugar correto foi falta de interpretação nossa mesmo, mas a gente viu que ela precisava estar em algum lugar.
